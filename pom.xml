@@ -12,8 +12,8 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.source>18</maven.compiler.source>
-        <maven.compiler.target>18</maven.compiler.target>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
         <extentreports>5.1.0</extentreports>
         <aspectj.version>1.9.20.1</aspectj.version>
     </properties>
@@ -81,7 +81,7 @@
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>ooxml-schemas</artifactId>
-            <version>1.1</version>
+            <version>1.4</version>
         </dependency>
 
         <dependency>
